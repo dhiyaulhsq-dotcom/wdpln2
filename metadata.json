@@ -1,0 +1,6 @@
+{
+  "name": "Mahligai - Wedding Planner Pribadi",
+  "description": "Aplikasi perencanaan pernikahan pribadi lengkap untuk pasangan calon pengantin: checklist, anggaran, tamu & RSVP, vendor, rundown hari-H, denah meja, dan inspirasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
